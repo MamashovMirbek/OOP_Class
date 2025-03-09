@@ -1,0 +1,12 @@
++--------------------+
+|   Smartphone      |
++--------------------+
+| - brand: str      |
+| - model: str      |
+| - storage: int    |
+| - price: float    |
++--------------------+
+| + __init__()      |
+| + display_info()  |
+| + check_category()|
++--------------------+
