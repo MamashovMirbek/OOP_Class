@@ -16,7 +16,7 @@ This project defines a `Smartphone` class in Python, representing a smartphone w
 ## UML Class Diagram
 Below is the UML diagram for this class:
 
-![UML Diagram](UML.png)
+![UML Diagram](UML.txt)
 
 ## How to Run the Code
 1. Clone the repository:
