@@ -21,4 +21,4 @@ Below is the UML diagram for this class:
 ## How to Run the Code
 1. Clone the repository:
    ```sh
-   git clone https://github.com/MamashovMirbek/OOP-Class.git
+   https://github.com/MamashovMirbek/OOP-Class
